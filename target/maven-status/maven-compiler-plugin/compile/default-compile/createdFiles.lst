@@ -1,0 +1,5 @@
+org\swing\contrasenias_hibernate_dao\MainContrasenias.class
+com\mycompany\zhibernate\modelo\Contrasenia.class
+com\mycompany\zhibernate\util\HibernateUtil.class
+com\mycompany\zhibernate\dao\ContraseniaDAO.class
+com\mycompany\zhibernate\dao\ContraseniaDAOImplementacion.class
